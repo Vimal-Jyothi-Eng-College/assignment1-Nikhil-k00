@@ -12,4 +12,4 @@ for i in range(1,len(word)):
         reesult+="$"
     else:
         reesult+=current
-print("Modified string is:",reesult)
+print(reesult)
